@@ -4,6 +4,9 @@
 yarn install
 </pre>
 
+## Ambiente
+<p>Criar arquivo .env baseado no .env.example</p>
+
 ## Versão
 <p>Foi utilizada a versão do Node: 19.7.0</p>
 
@@ -13,10 +16,11 @@ yarn install
 ## Endpoints - API
 <p>O arquivo contendo o ambiente / end-points da API está na pasta raíz do projeto, chamado: <b>Insomnia.json</b>.</p>
 
-## Testes
-<p>Para rodar os testes rodar o comando:</p>
-<pre>yarn test</pre>
-
 ## Executar aplicação
 <p>Para iniciar o servidor em ambiente de desenvolvimento rodar o comando:</p>
 <pre>yarn dev</pre>
+
+
+## Testes
+<p>Para rodar os testes rodar o comando:</p>
+<pre>yarn test</pre>
