@@ -22,5 +22,5 @@ yarn install
 
 
 ## Testes
-<p>Para rodar os testes rodar o comando:</p>
+<p>Para executar os testes rodar o comando:</p>
 <pre>yarn test</pre>
